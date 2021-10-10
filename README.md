@@ -4,15 +4,15 @@ Meeting management software for secretary of my institute (School Project).
 
 ### Pré-requis
 
-Java Virtual Machine. L'application ne fonctionne que sous Windows.
+Java Virtual Machine. The app is only working on Windows.
 
 ### Installation
 
-Installation avec netbeans.
+Installation with netbeans.
 
 ## Démarrage
 
-Lancement automatique au démarage du pc. Un raccourci est créé sur le bureau.
+Automatic run at Windows boot. A shortcut is created on the desktop.
 
 ## Made with
 
@@ -26,4 +26,4 @@ Libs:
 
 ## License
 
-Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
+This code is under ``WTFTPL`` lincense - see file [LICENSE.md](LICENSE.md) for more informations.
